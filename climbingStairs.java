@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class climbingStairs {
     static int climbStairs(int n){
         if(n<=1){
